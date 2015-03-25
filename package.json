@@ -1,0 +1,24 @@
+{
+  "name": "lettersmith",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mistermark/lettersmith.git"
+  },
+  "keywords": [
+    "lettersmith",
+    "blog",
+    "markdown"
+  ],
+  "author": "Mark de Jong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mistermark/lettersmith/issues"
+  },
+  "homepage": "https://github.com/mistermark/lettersmith"
+}
